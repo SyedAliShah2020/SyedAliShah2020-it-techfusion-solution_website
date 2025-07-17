@@ -1,4 +1,4 @@
-<?php include("includes/header.php"); ?>
+<?php include("includes/header.php"); ?> 
 
 <!-- Enroll Page Hero -->
 <section class="text-white text-center py-5" style="background: linear-gradient(to right, #1e3a8a, #2563eb);">
